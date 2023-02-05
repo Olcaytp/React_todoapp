@@ -1,3 +1,9 @@
+# React - TodoAppp
+<img
+  src="public/todoapp.png"
+  alt="Todo App"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
